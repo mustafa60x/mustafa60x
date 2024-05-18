@@ -23,41 +23,13 @@ Hi! I'm a frontend developer. I’m constantly learning Vue 3, Nuxt3, Typescript
 
 ## 👨‍💻 Projects
 
-**ReactChatApp Frontend**
-
-[https://github.com/mustafa60x/ReactChatApp_2022OkrH2Frontend](https://github.com/mustafa60x/ReactChatApp_2022OkrH2Frontend)
-
-
-**ReactChatApp Backend**
-
-[https://github.com/mustafa60x/ReactChatApp_2022OkrH2Backend](https://github.com/mustafa60x/ReactChatApp_2022OkrH2Backend)
-
-
-**Python_Recipe Tkinter**
-
-[https://github.com/mustafa60x/Python_RecipeTkinter](https://github.com/mustafa60x/Python_RecipeTkinter)
-
-
-**Python_Recipe Flask**
-
-[https://github.com/mustafa60x/Python_RecipeFlask](https://github.com/mustafa60x/Python_RecipeFlask)
-
-
-**python-film-kutuphanesi**
-
-[https://github.com/mustafa60x/python-film-kutuphanesi](https://github.com/mustafa60x/python-film-kutuphanesi)
-
-
-**Vue_AgeOfEmpires**
-
-[https://github.com/mustafa60x/Vue_AgeOfEmpires](https://github.com/mustafa60x/Vue_AgeOfEmpires)
-
-
-**GeGi - Gelir Gider Takip Uygulamasi**
-
-Play Store: [https://play.google.com/store/apps/details?id=com.mustafaturkoz.gegi](https://play.google.com/store/apps/details?id=com.mustafaturkoz.gegi)
-
-
+- [**ReactChatApp Frontend**](https://github.com/mustafa60x/ReactChatApp_2022OkrH2Frontend)
+- [**ReactChatApp Backend**](https://github.com/mustafa60x/ReactChatApp_2022OkrH2Backend)
+- [**Python_Recipe Tkinter**](https://github.com/mustafa60x/Python_RecipeTkinter)
+- [**Python_Recipe Flask**](https://github.com/mustafa60x/Python_RecipeFlask)
+- [**python-film-kutuphanesi**](https://github.com/mustafa60x/python-film-kutuphanesi)
+- [**Vue_AgeOfEmpires**](https://github.com/mustafa60x/Vue_AgeOfEmpires)
+- [**GeGi - Mobile App on Play Store**](https://play.google.com/store/apps/details?id=com.mustafaturkoz.gegi)
 
 <br/>
 
