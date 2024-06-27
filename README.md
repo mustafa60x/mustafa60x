@@ -35,6 +35,7 @@ Hi! I'm a frontend developer. I’m constantly learning Vue 3, Nuxt3, Typescript
 
 
 ## 🌐 My Open Source Contributions
+- [primeface/primevue](https://github.com/primefaces/primevue/pull/5970)
 - [primeface/primevue](https://github.com/primefaces/primevue/pull/5766)
 - [primefaces/primevue](https://github.com/primefaces/primevue/pull/5712)
 - [primefaces/primevue](https://github.com/primefaces/primevue/pull/5725)
