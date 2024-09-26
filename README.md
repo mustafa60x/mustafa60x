@@ -9,9 +9,13 @@
 ## 👤 About Me
 Hi! I'm a frontend developer. I’m constantly learning Vue 3, Nuxt3, Typescript, Nodejs & Postgres. Also cycling and visiting historical places are my favorite hobbies. In my free time, I usually play chess and read about philosophy. I am always eager to learn new technologies and tackle challenging problems.
 
-**Medium:** https://medium.com/@mustafa60x
+<p align="center">
+  <br>
+  <a href="https://www.buymeacoffee.com/mustafa60x" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+</p>
 
-<br/>
 
 ## 🌟 Skills
 **Active:** Html/CSS, Tailwind, DevExtreme, JavaScript/Typescript, Vue.js, Nuxt.js, Nitro.js, Vitest, Selenium, Node.js(Express), NestJS, Python, Flask, PostgreSQL(Sequelize), MongoDB, Socket.io, Redis, Aws
@@ -56,7 +60,10 @@ Hi! I'm a frontend developer. I’m constantly learning Vue 3, Nuxt3, Typescript
 
 ## 📫 Contact
 
+**Medium:** https://medium.com/@mustafa60x
+<br>
 **E-mail:** `mturkoz93[at]gmail[dot]com`
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa60x&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa60x" /> </p>
 
 
