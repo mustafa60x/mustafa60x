@@ -9,12 +9,14 @@
 ## 👤 About Me
 Hi! I'm a frontend developer. I’m constantly learning Vue 3, Nuxt3, Typescript, Nodejs & Postgres. Also cycling and visiting historical places are my favorite hobbies. In my free time, I usually play chess and read about philosophy. I am always eager to learn new technologies and tackle challenging problems.
 
+<!--
 <p align="center">
   <br>
   <a href="https://www.buymeacoffee.com/mustafa60x" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
   </a>
 </p>
+-->
 
 
 ## 🌟 Skills
