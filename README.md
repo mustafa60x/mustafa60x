@@ -7,7 +7,7 @@
 
 
 ## 👤 About Me
-Hi! I'm a frontend developer. I’m constantly learning Vue 3, Nuxt3, Typescript, Nodejs & Postgres. Also cycling and visiting historical places are my favorite hobbies. In my free time, I usually play chess and read about philosophy. I am always eager to learn new technologies and tackle challenging problems.
+Hi! I'm a senior frontend developer. I’m constantly learning Vue 3, Nuxt 4, Typescript, Nodejs & Postgres. Also cycling and visiting historical places are my favorite hobbies. In my free time, I usually play chess and read about philosophy. I am always eager to learn new technologies and tackle challenging problems.
 
 <!--
 <p align="center">
