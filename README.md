@@ -29,7 +29,7 @@ Hi! I'm a senior frontend developer. I’m constantly learning Vue 3, Nuxt 4, Ty
 
 ## 👨‍💻 Projects
 
-- [**Gitpack (npm CLI) 📦**](https://github.com/mustafa60x)
+- [**Gitpack (npm CLI) 📦**](https://github.com/mustafa60x/gitpack)
 - [**Nextjs Demo (Modular Component Architecture)**](https://github.com/mustafa60x/x_next-stackmind)
 - [**ReactChatApp Frontend**](https://github.com/mustafa60x/ReactChatApp_2022OkrH2Frontend)
 - [**ReactChatApp Backend**](https://github.com/mustafa60x/ReactChatApp_2022OkrH2Backend)
