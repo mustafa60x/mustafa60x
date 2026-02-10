@@ -6,6 +6,29 @@
 <h3 align="center">A Frontend Dev from Türkiye 🌍</h3>
 
 
+## 🔥 Featured Project
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@mustafa60x/gitpack" target="_blank">
+    <img src="./gitpack.png" alt="Gitpack" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@mustafa60x/gitpack">
+    <img src="https://img.shields.io/npm/v/@mustafa60x/gitpack?style=for-the-badge&color=3498db" alt="npm version" />
+  </a>
+  &nbsp;
+  <a href="https://www.npmjs.com/package/@mustafa60x/gitpack">
+    <img src="https://img.shields.io/npm/dt/@mustafa60x/gitpack?style=for-the-badge&color=27ae60" alt="npm downloads" />
+  </a>
+</p>
+
+> **Gitpack** is a powerful CLI tool I built to create clean, timestamped project archives that automatically respect your .gitignore rules. Check it out on npm!
+
+<br/>
+
+
 ## 👤 About Me
 Hi! I'm a senior frontend developer. I’m constantly learning Vue 3, Nuxt 4, Typescript, Nodejs & Postgres. Also cycling and visiting historical places are my favorite hobbies. In my free time, I usually play chess and read about philosophy. I am always eager to learn new technologies and tackle challenging problems.
 
