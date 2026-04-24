@@ -5,49 +5,46 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mustafa</h1>
 <h3 align="center">A Frontend Dev from Türkiye 🌍</h3>
 
-
-## 🔥 Featured Project
-
-<p align="center">
-  <a href="https://www.npmjs.com/package/@mustafa60x/gitpack" target="_blank">
-    <img src="./gitpack.png" alt="Gitpack" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.npmjs.com/package/@mustafa60x/gitpack">
-    <img src="https://img.shields.io/npm/v/@mustafa60x/gitpack?style=for-the-badge&color=3498db" alt="npm version" />
-  </a>
-  &nbsp;
-  <a href="https://www.npmjs.com/package/@mustafa60x/gitpack">
-    <img src="https://img.shields.io/npm/dt/@mustafa60x/gitpack?style=for-the-badge&color=27ae60" alt="npm downloads" />
-  </a>
-</p>
-
-> **Gitpack** is a powerful CLI tool I built to create clean, timestamped project archives that automatically respect your .gitignore rules. Check it out on npm!
-
-<br/>
-
-
 ## 👤 About Me
-Hi! I'm a senior frontend developer. I’m constantly learning Vue 3, Nuxt 4, Typescript, Nodejs & Postgres. Also cycling and visiting historical places are my favorite hobbies. In my free time, I usually play chess and read about philosophy. I am always eager to learn new technologies and tackle challenging problems.
 
-<!--
+Senior Frontend Developer  
+Creator of → https://englinks.net  
+
+I got tired of wasting hours on low-quality English resources.  
+So I built a system to find the best ones - fast.
+
+### ⚡ What I Do
+- 🔧 Build tools for learners  
+- 🔗 Curate high-quality English resources  
+- ⚡ Focus on simplicity & speed  
+
+### 🛠 Tech Stack
+Vue · Nuxt · TypeScript · VitePress · Node.js · PostgreSQL  
+
+### 🚀 Featured Project
+👉 https://englinks.net  
+Find the best English resources without wasting time.
+
+### 🌟 Skills
+
+**Active:**  
+HTML/CSS · Tailwind · JavaScript/TypeScript · Vue · Nuxt · VitePress · Nitro  
+Node.js (Express, NestJS) · PostgreSQL · MongoDB · Redis · AWS  
+Vitest · Selenium · Socket.io  
+
+**Familiar:**  
+React · Next.js · Android · TypeORM · Jenkins · Stripe · Azure  
+Flask · Python · R · Svelte · SQLite · Swagger  
+
+---
+
+☕ Support the mission  
+
 <p align="center">
-  <br>
   <a href="https://www.buymeacoffee.com/mustafa60x" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 181px !important;" >
   </a>
 </p>
--->
-
-
-## 🌟 Skills
-**Active:** Html/CSS, Tailwind, DevExtreme, JavaScript/Typescript, Vue.js, Nuxt.js, Nitro.js, Vitest, Selenium, Node.js(Express), NestJS, Python, Flask, PostgreSQL(Sequelize), MongoDB, Socket.io, Redis, Aws
-
-**Others:** React, Next.js, Android, Typeorm, Jenkins, Stripe, Azure, R Language, Svelte, SQLite, Swagger
-
-<br/>
 
 
 ## 👨‍💻 Projects
@@ -101,9 +98,3 @@ Hi! I'm a senior frontend developer. I’m constantly learning Vue 3, Nuxt 4, Ty
 
   <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mustafa60x&count_private=true&show_icons=true&theme=tokyonight" alt="mustafa60x" /></p>
 </details>
-
-
-
-
-
-
